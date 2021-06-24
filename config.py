@@ -8,12 +8,12 @@
 # StaffGuildID : The staff Guild’s ID For mod mail to be used in. This will be the server where all Modmail Threading and Logging will occur.
 # ModMailCatagoryID : The Catagory ID of the Catagory Modmail shohld use. Must be in staff guild.
 
-MainGuildID = 000000000000000000
-StaffGuildID = 000000000000000000
-ModMailCatagoryID = 000000000000000000
+MainGuildID = 857291306144104468
+StaffGuildID = 781968220482699314
+ModMailCatagoryID = 857627133475815464
 
 # DiscordModmailLogChannel : The log channel for modmail threads.
-DiscordModmailLogChannel = 000000000000000000
+DiscordModmailLogChannel = 857627311045738507
 
 # BotToken : The bot token for the Oauth2 App.
 # BotPlayingStatus : The bot playing status as shown in discord.
